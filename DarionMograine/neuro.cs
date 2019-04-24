@@ -10,7 +10,7 @@ namespace DarionMograine
 {
      class neuro
     {
-        private static string accessToken = "6QAAE5PQGFM3GFCH37QAGCFQRA7JJ4LP";
+        private static string accessToken = "WITAIACCESSTOKEN";
         public void Brain()
         {
        
